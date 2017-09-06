@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meredith Kahn / Professional Portfolio"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Meredith Kahn"
 description              : &description "Professional portfolio site built with GitHub Pages."
